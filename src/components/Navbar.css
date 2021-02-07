@@ -1,0 +1,11 @@
+.navbar-brand:hover{
+    cursor: pointer;
+    text-shadow: 2px 2px 2px rgba(255, 255, 255, 0.514);
+}
+
+.navIcon {
+    height: 40px !important;
+    width: 40px !important;
+    margin-right: 10px !important;
+    top: 2px !important;
+}

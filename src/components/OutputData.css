@@ -1,0 +1,5 @@
+tr:hover {
+    background-color: #eeeeee !important;
+    color: orangered !important;
+    cursor: pointer !important;
+}

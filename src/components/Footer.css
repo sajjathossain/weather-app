@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    bottom: 0 !important;
+    font-size: 16px !important;
+}
+
+.footer div a{
+    color: #0066cc;
+}
+
+.footer div a:hover {
+    text-decoration: none !important;
+    color: orangered;
+}

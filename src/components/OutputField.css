@@ -1,0 +1,15 @@
+.wIcon {
+    background: #eeeeee !important;
+    align-items: center !important;
+}
+
+.wIcon  p {
+    font-weight: bold !important;
+    font-size: 28px !important;
+    padding-top: 10px !important;
+    /* margin-right: 10px !important; */
+}
+
+.wIcon, table {
+    border-radius: 5px !important;
+}

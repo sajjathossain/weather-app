@@ -1,5 +1,5 @@
-<div align="center">CWeather</div>
-<p align="center" style="font-size: 11px">Designed & Developed By Sajjat Hossain</p>
+<h1 align="center" color="#05adec">CWeather</h1>
+<p align="center" style="font-size: 11px; font-weight: bold; color: #05adec;">Designed & Developed By Sajjat Hossain</p>
 
 # Image(s) :
 ![image](./CWeather.gif)

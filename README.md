@@ -1,10 +1,10 @@
 <div align="center">CWeather</div>
 <p align="center" style="font-size: 11px">Designed & Developed By Sajjat Hossain</p>
 
-#Image(s) :
-![image]("./CWeather.gif")
+# Image(s) :
+![image](./CWeather.gif)
 
-#Technologies :
+# Technologies :
 > - React.js
 > - Bootstrap CSS
 > - FreeWeatherAPI

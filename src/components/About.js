@@ -10,8 +10,8 @@ export class About extends Component {
                         <tr>
                             <td colSpan="2" className="text-center h1">About</td>
                         </tr>
-                   </thead>
-                   <tbody>
+                    </thead>
+                    <tbody>
                        <tr>
                            <td className="text-left">
                                <b>Developer :</b>

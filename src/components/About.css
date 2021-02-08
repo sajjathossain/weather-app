@@ -1,0 +1,10 @@
+.editLinks {
+	color: #05adec;
+}
+
+.editLinks:hover {
+	text-decoration: none !important;
+	underline: none !important;
+	color: orangered !important;
+	
+}

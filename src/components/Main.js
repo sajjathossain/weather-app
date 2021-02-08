@@ -1,4 +1,4 @@
-import React, { Component, useState, useEffect } from 'react'
+import React, { Component } from 'react'
 import InputField from './InputField'
 import OutputField from './OutputField'
 
@@ -31,10 +31,12 @@ export class Main extends Component {
        
 
         return (
+
             <div>
                 <InputField checkWeather={this.checkWeather} getLocation={this.location} />
                 {this.state.isLoading === true ? <h3 className="container mb-3 alert alert-warning font-weight-bold d-flex justify-content-center ">No Weather Data Available</h3> : <OutputField data={this.state.infos} />}
             </div>
+               
         )
     }
 }

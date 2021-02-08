@@ -18,7 +18,7 @@ export class Main extends Component {
     }
     
     async checkWeather() {
-        const weatherApi = `http://api.weatherapi.com/v1/current.json?key=fa8588f468884cab9dc184829210602&q=${myInfo}`;     
+        const weatherApi = `https://api.weatherapi.com/v1/current.json?key=fa8588f468884cab9dc184829210602&q=${myInfo}`;     
         const response = await fetch(weatherApi);
         const data = await response.json();
 

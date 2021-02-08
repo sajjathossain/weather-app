@@ -23,6 +23,7 @@ const OutputField = ({data}) => {
                     <OutputData option={"Temprature (C)"} value={data.current.temp_c} />
                     <OutputData option={"Temperature (F)"} value={data.current.temp_f} />
                     <OutputData option={"Wind Per Killometer"} value={data.current.wind_kph} />
+                    <OutputData option={"Wind Direction"} value={data.current.wind_dir} />
                     <OutputData option={"Feels Like (C)"} value={data.current.feelslike_c} />
                     <OutputData option={"Humidity"} value={data.current.humidity} />
                     <OutputData option={"Day/Night"} value={data.current.is_day ? "Day" : "Night" } />

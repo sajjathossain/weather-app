@@ -1,3 +1,16 @@
+<div align="center">CWeather</div>
+<p align="center" style="font-size: 11px">Designed & Developed By Sajjat Hossain</p>
+
+#Image(s) :
+![image]("./CWeather.gif")
+
+#Technologies :
+> - React.js
+> - Bootstrap CSS
+> - FreeWeatherAPI
+
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
